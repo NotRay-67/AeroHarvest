@@ -13,12 +13,12 @@ This repository introduces a novel application of autonomous drone technology co
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:** `git clone https://github.com/NotRay-67/PalmyraHarvestAutomation.git`
+2. **Install dependencies:** `pip install -r requirements.txt`
+3. **Run the application:** `python app.py`
 
-```bash
-git clone https://github.com/your-username/palmyra-harvesting-system.git
-```
+## Contributing
+We welcome contributions from the community! Whether you're interested in improving the model, enhancing the user interface, or adding new features, your input is valuable.
 
-## Acknowledgments
-
-Special thanks to 
+## License
+This project is licensed under the MIT License 
